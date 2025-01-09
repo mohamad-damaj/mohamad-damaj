@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **an app that translates Sign Language to Text in Realtime**
 
 <br>
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img align="center" src="https://skillicons.dev/icons?i=py,tensorflow,r,mysql,sklearn,html,css" />
